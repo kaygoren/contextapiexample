@@ -1,0 +1,18 @@
+.wholeList li {
+    max-width:'500px';
+    text-align:left;
+    border:1px solid red;
+    padding:5px;
+    margin:5px;
+    list-style-type: none;
+}
+
+
+.personalList li {
+    max-width:'500px';
+    text-align:left;
+    border:1px solid blue;
+    padding:5px;
+    margin:5px;
+    list-style-type: none;
+}
